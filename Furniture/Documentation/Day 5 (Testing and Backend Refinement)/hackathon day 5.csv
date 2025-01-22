@@ -1,0 +1,8 @@
+﻿Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+TCOO1,Validate product listing page,Open homepage > Navigate to Shop section > Verify product,Products Display Successfully,Products Display Successfully,Passed,Low,-,No Issue Found
+TCOO2,Check cart functionality,Click cart button > View cart > Remove product,Displaying Products On Cart,Displaying Products On Cart,Passed,Low,-,Successfully
+TCOO3,Validate Dynamic routing,Product Page > Click to any product card,Open Dynamic Product Detail Page,Open Dynamic Product Detail Page,Passed,Meduim,-,Successfully
+TCOO4,Ensure responsiveness on mobile,Inspect > Device Toolbar > Select Mobile Device ,Showing Content according to the device,Showing Content according to the device,Passed,Medium,-,Responsive
+TCOO5,Cross Brossing,"Open Our website on different Browsers such as yahoo, google, safari, edge",Working Correctly on every browsers,Working Correctly on every browsers,Passed,High,-,Successfully
+TCOO6,Validate Search Bar,Search Those Items which has not found easily,Showing Dropdown ,Dropdown showing while searching products,Passed,Low,-,Successfully
+TCOO7,Test API Error Handling,Disconnect Gorq Query > Refresh Page,Show Error Message on Screen,Show Error Message on Screen,Passed,Low,-,Handle Gracefully
